@@ -1,0 +1,49 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(216, 222, 135);
+}
+main{
+    height: 548px;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(216, 222, 135);
+
+}
+header, footer{
+    height: 100px;
+    display: flex;
+    align-items:center;
+    padding: 0 20 px;
+    background-color: rgb(216, 222, 135);
+}
+h1{
+    color: yellow;
+    width: 134px;
+    height: 40px;
+    top: 74px;
+    left: 135px;
+    font: Righteou ;
+}
+img{
+    width: 95px;
+    height: 48px;
+}
+h2{
+    width: 1096px;
+    font-size: 250px;
+    line-height: 100%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-family: "righteous";
+}
