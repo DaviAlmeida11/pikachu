@@ -1,0 +1,128 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #f5cf06
+}
+main{
+    height: 548px;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(21, 51, 88);
+    position: relative;
+    background-color: #f5cf06;
+
+}
+header, footer{
+    height: 100px;
+    display: flex;
+    align-items:center;
+    padding: 0 20 px;
+    background-color: #f5cf06
+   
+}
+h1{
+  
+    width: 134px;
+    height: 40px;
+    top: 74px;
+    left: 135px;
+    font-family: "Righteous" ;
+}
+img{
+    width: 95px;
+    height: 48px;
+}
+h2{
+    width: 1096px;
+    height: 373px;
+    font-size: 300px;
+    top: 270px;
+    left: 172px;
+    color: aliceblue;
+    font-family: "Righteous";
+    
+ 
+    
+}
+main h{
+   
+    height: 497px;
+    top: 88px;
+    left: -11px;
+    width: 1462px;
+    font-size: 380px;
+    color: aliceblue;
+    font-family: "Righteous";
+    opacity: 70%;
+  
+  
+}
+main .pikachu{
+ 
+    width: 559px;
+    height: 541px;
+    top: 292px;
+    left: 440px;
+   display: flex;
+   justify-content: center;
+ 
+
+   
+   
+}
+
+main span{
+    font-size: 20px;
+ 
+    top: 629px;
+    width: 530px;
+    height: 154px;
+    left: 70px;
+    align-items: center;
+    font-family: "Righteous";
+    position: absolute;
+    color: #8e4106;
+}
+main h3{
+    width: 530px;
+    font-size: 63px;
+    font-family: "Righteous";
+    color: #8e4106;
+}
+.botao{
+    
+    background-color:#8e4106;
+    width: 411px;
+    height: 100px;
+    top: 683px;
+    left: 959px;
+}
+.download{
+   
+    width: 24px;
+    height: 32px;
+    top: 717px;
+    left: 1032px;
+    
+}
+h5{
+    
+  font-size: 48px;
+  width: 222px;
+  height: 60px;
+  left: 10;
+  top: 25px;
+
+}
+
+    
+    
